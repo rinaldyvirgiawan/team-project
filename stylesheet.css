@@ -159,7 +159,6 @@ header {
   top: 44%;
   width: 100%;
   color: white;
-  text-align: left;
 }
 
 .text-contents {
@@ -168,6 +167,9 @@ header {
   margin-top: 15px;
   font-size: 15px;
   color: #000;
+  text-align: left;
+}
+ul {
   text-align: left;
 }
 
