@@ -178,6 +178,9 @@ header {
   color: white;
   text-align: left;
 }
+.text-contents li{
+  color: white;
+}
 ul {
   text-align: left;
 }
