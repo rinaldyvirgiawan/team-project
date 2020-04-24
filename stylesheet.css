@@ -148,8 +148,10 @@ header {
 }
 
 .heading h2 {
-  font-weight: bold;
-  font-size: 30px;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  color:white;
 }
 
 .lesson {
