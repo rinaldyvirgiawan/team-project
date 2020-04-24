@@ -225,8 +225,7 @@ ul {
  color:#00bdbd;
 }
 .projects{
- border: 3px solid #f1f1f1;
- display: flex;
+  display: flex;
 
 }
 .project {
@@ -307,4 +306,5 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #00bdbd;
 }
