@@ -27,8 +27,8 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://github.com/kelas-f-31-progate/team-project/blob/master/top-en.jpg);
   background-size: cover;
-  color: white;
-  text-align: center;
+  color: #000;
+  text-align: left;
 }
 
 .top-wrapper h1 {
