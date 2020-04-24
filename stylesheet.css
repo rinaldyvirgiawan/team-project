@@ -142,8 +142,8 @@ header {
 }
 
 .heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   color: #5f5d60;
 }
 
@@ -175,7 +175,7 @@ header {
   display: block;
   margin-top: 5px;
   font-size: 20px;
-  color: #000;
+  color: white;
   text-align: left;
 }
 ul {
