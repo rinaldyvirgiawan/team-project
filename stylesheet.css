@@ -131,7 +131,7 @@ header {
   padding-left: 5%;
   padding-right: 5%;
   background-color: #478eff;
-  text-align: left;
+  text-align: center;
 }
 
 .heading {
@@ -159,6 +159,7 @@ header {
   top: 44%;
   width: 100%;
   color: white;
+  text-align: left;
 }
 
 .text-contents {
