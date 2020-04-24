@@ -239,6 +239,62 @@ flex-basis: 33%;
  object-fit: cover;
  object-position: center;
 }
+
+.contact{
+   padding: 30px 0 180px 0;
+   background-image: url(contact-us.jpg);
+   background-size: cover; 
+}
+.heading-contact {
+
+top:200px;
+margin-top:0px;
+
+}
+.heading-contact h2{
+ font-size: 45px;
+ letter-spacing: 5px;
+ margin-bottom: 80px;
+ color:#00bdbd;
+ text-align:center;
+}
+.input-contact{
+display:flex;
+}
+.input-left{
+flex-basis: 50%;
+
+}
+.input-right{
+flex-basis: 50%;
+
+}
+.input-left input{
+padding:20px 20px;
+width:90%;
+background:none;
+border: 1px solid #fff;
+margin:10px 10px;
+color:white;
+font-size:15px;
+
+}
+
+.input-right textarea{
+padding:20px 20px;
+width:90%;
+background:none;
+border: 1px solid #fff;
+margin:10px 10px;
+height:210px;
+color:white;
+font-size:15px;
+}
+.submit{
+float:right;
+ background-color: #00bdbd;
+ margin-right:45px;
+}
 footer img {
   width: 125px;
 }
