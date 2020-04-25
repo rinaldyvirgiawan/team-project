@@ -280,6 +280,10 @@ color:white;
 font-size:15px;
 
 }
+ 
+.input-left::-webkit-input-placeholder{
+	color: white;
+}
 
 .input-right textarea{
 padding:20px 20px;
