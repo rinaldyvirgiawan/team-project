@@ -239,6 +239,7 @@ flex-basis: 33%;
  height: 250px;
  object-fit: cover;
  object-position: center;
+ cursor: pointer;
 }
 .project-icon img :hover {
   transform: scale(1.5);
