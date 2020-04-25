@@ -240,6 +240,9 @@ flex-basis: 33%;
  object-fit: cover;
  object-position: center;
 }
+.project-icon img :hover {
+  transform: scale(1.5);
+}
 
 .contact{
    padding: 30px 0 180px 0;
@@ -281,10 +284,6 @@ font-size:15px;
 
 }
  
-.input-left::-webkit-input-placeholder{
-	color: white;
-}
-
 .input-right textarea{
 padding:20px 20px;
 width:90%;
