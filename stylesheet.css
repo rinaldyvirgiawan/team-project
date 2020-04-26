@@ -201,7 +201,7 @@ header {
 }
 
 .text-contents {
-  width: 50%;
+  width: auto;
   display: block;
   margin-top: 5px;
   font-size: 20px;
