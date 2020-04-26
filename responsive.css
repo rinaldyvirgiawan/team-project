@@ -1,0 +1,77 @@
+@media (max-width:1000px) {
+
+.header-right{
+    display:none;
+  }
+
+.menu-icon{
+    display:block !important;
+  }
+ 
+
+.top-wrapper h1 {
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+.top-wrapper p {
+ font-size: 20px;
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+.heading h2 {
+  font-size:30px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  color:white;
+}
+
+.project-heading h2 {
+ 
+ font-size: 30px;
+ 
+}
+.heading-contact h2{
+ font-size: 30px;
+ }
+.projects {
+	display: flex;
+	flex-direction: column;
+  }
+ .project{
+    width:100%;
+  }
+ 
+  .lesson {
+  //float: left;
+  width: 50%;
+   
+}
+.text-contents {
+  width: 100%;
+  text-align: justify;
+padding:0 5px;
+ 
+}
+.lesson-icon{
+ width:100%;
+
+}
+  
+}
+@media (max-width:670px) {
+ .lesson {
+  width: 100%;
+   
+}
+.text-contents {
+  width: 100%;
+  text-align: justify;
+padding:0 5px;
+ 
+}
+.lesson-icon{
+ width:100%;
+
+}
+}
