@@ -42,10 +42,9 @@
     width:100%;
   }
  
-  .lesson {
-  //float: left;
+.lesson {
   width: 50%;
-   
+  text-align:center;
 }
 .text-contents {
   width: 100%;
