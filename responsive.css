@@ -49,7 +49,7 @@
 .text-contents {
   width: 100%;
   text-align: justify;
-padding:0 5px;
+  padding:0 5px;
  
 }
 .lesson-icon{
@@ -65,7 +65,7 @@ padding:0 5px;
 }
 .text-contents {
   width: 50%;
-  text-align: justify;
+  text-align: left;
 padding:0 5px;
  
 }
