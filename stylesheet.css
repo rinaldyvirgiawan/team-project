@@ -201,13 +201,12 @@ header {
 }
 
 .text-contents {
-  width: auto;
+  width: 80%;
   display: block;
   margin-top: 5px;
   font-size: 20px;
   color: white;
-  text-align: justify;
-  position: absolute;
+  text-align: left;
 }
 .text-contents li{
   color: white;
