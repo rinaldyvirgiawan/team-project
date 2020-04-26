@@ -141,6 +141,7 @@ header {
   background-color: #00bdbd;
   text-align: center;
   align-item: center;
+  display: flex;
 }
 
 .heading {
