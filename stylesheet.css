@@ -207,6 +207,7 @@ header {
   font-size: 20px;
   color: white;
   text-align: left;
+  position: relative;
 }
 .text-contents li{
   color: white;
